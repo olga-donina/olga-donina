@@ -3,7 +3,7 @@
 #### Data Analyst
 
 
-## Проекты
+## 📌 Проекты
 
 - [Practicum_projects](./Practicum_projects)
 - [dashboards](./dashboards)
