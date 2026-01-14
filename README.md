@@ -5,7 +5,7 @@
 
 ## 📍Проекты
 
-- [Practicum_projects](./Practicum_projects)
+- [Practicum_projects](https://github.com/olga-donina/Practicum_projects)
 - [dashboards](https://github.com/olga-donina/dashboards)
 
 ## Навыки
