@@ -10,11 +10,8 @@
 
 ## Навыки
 
-- Программирование: Python  
-- Анализ данных: pandas, numpy, scipy, statsmodels  
-- Визуализация: matplotlib, seaborn  
-- Статистика: t-test, Mann–Whitney, z-test пропорций  
-- A/B-тестирование  
+- Анализ данных: SQL, pandas, numpy, scipy, statsmodels, matplotlib, seaborn  
+- A/B-тестирование: t-test, Mann–Whitney, z-test пропорций  
 - Базы данных: PostgreSQL  
 - BI: Yandex DataLens  
 - Инструменты: Jupyter Notebook, DBeaver  
