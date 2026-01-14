@@ -6,7 +6,7 @@
 ## Проекты
 
 - [Practicum_projects](./Practicum_projects)
-- [Dashboards](./dashboards)
+- [dashboards](./dashboards)
 
 ## Навыки
 
